@@ -11,11 +11,11 @@ function ProjectsCards() {
   return (
     <div className="project_container">
       <Container>
-        <Row xl={3} >
+        <Row xl={3}>
           <Col>
             <div className="project">
               <div>
-                <a href="https://google.com">
+                <a href="https://intman99.github.io/keeper-app/">
                   <img
                     className="project_image hover_project"
                     src={KeeperFoto}
@@ -64,13 +64,11 @@ function ProjectsCards() {
           <Col>
             <div className="project">
               <div>
-                <a href="https://still-sierra-29819.herokuapp.com/">
-                  <img
-                    className="project_image hover_project"
-                    src={RestFulApi}
-                    alt="Restful API Proect"
-                  />
-                </a>
+                <img
+                  className="project_image hover_project"
+                  src={RestFulApi}
+                  alt="Restful API Proect"
+                />
               </div>
               <div className="project_text"></div>
               <strong>Rest API</strong>
