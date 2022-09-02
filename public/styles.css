@@ -99,7 +99,7 @@ body {
   position: relative;
   border: 2px solid black;
   top: 400px;
-  height: 1000px;
+  height: 100rem;
   background-color: rgb(236, 230, 230);
   color: #000;
   width: 80%;
@@ -109,41 +109,37 @@ body {
 
 .aboutMeText {
   position: relative;
-  width: 30%;
+  width: 40%;
   border: 5px solid black;
   box-shadow: 5px 10px black;
-  left: 35%;
-  top: 15%;
+  left: 30%;
+  top: 5rem;
   text-align: center;
   word-spacing: 10%;
 }
 
-.mainText {
-  position: relative;
-  width: 40%;
-  border: 3px solid;
-  left: 5%;
+.col{
+  width: 50%;
 }
-
 
 .project_container{
   position: relative;
-  top: 15rem;
-  left:1rem;
-  gap: 5rem;
+  top: 11rem;
   text-align: center;
+  font-size: 1.5rem;
+  margin: 0 10rem;
 }
 
 .project_image{
-  width:19rem;
-  height:25rem;
+  width:25rem;
+  height:33rem;
   border: 5px solid black;
   transition: transform 0.3s;
-  margin: 0 auto;
 }
 
 .project_image:hover{
   transform: scale(1.1);
+  box-shadow: 5px 10px 20px gray;
 }
 
 /* Footer */
