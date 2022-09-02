@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84487ea8.css",
+    "main.js": "/static/js/main.faa1cf20.js",
+    "static/media/fotoDavid.JPG": "/static/media/fotoDavid.40e481ab84e7955acb9b.JPG",
+    "static/media/KeeperAppTest.jpg": "/static/media/KeeperAppTest.817ce8e5bac8a5d950c5.jpg",
+    "static/media/ToDoList.jpg": "/static/media/ToDoList.f2a49645cfa16992bea8.jpg",
+    "index.html": "/index.html",
+    "main.84487ea8.css.map": "/static/css/main.84487ea8.css.map",
+    "main.faa1cf20.js.map": "/static/js/main.faa1cf20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.faa1cf20.js"
+  ]
+}
