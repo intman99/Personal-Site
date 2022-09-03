@@ -16,7 +16,7 @@ function Footer() {
       </div>
       <div>
         <a href="https://www.linkedin.com/in/david-zoike-aa10921b2/"><i class="fa-brands fa-xl socialFav fa-linkedin"></i></a>
-        <a href="https://github.com"><i class="fa-brands fa-xl socialFav fa-github"></i></a>
+        <a href="https://github.com/intman99"><i class="fa-brands fa-xl socialFav fa-github"></i></a>
       </div>
       <div className="Jahr">
         David Zoike {Jahr}
