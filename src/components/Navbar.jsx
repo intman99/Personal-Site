@@ -9,7 +9,7 @@ function NewNavbar() {
     <>
       <Navbar>
         <Container className="NavBar">
-          <Navbar.Brand >David Zoike</Navbar.Brand>
+          <Navbar.Brand >My Personal Site</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link className="NavLink" href='DavidZoikeCV.pdf'> Download CV</Nav.Link>
             <Nav.Link className="NavLink" href="#contactme">Contact</Nav.Link>
